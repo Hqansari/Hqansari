@@ -28,7 +28,7 @@ I enjoy solving problems, debugging complex issues, and crafting responsive, int
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/husna-qasim)" target="_blank">
+  <a href="https://www.linkedin.com/in/husna-qasim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:husnaqasim.7860218@gmail.com">

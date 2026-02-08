@@ -1,7 +1,9 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&section=header&text=Hi%20I'm%20HusnaQasim%20👋&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=HusnaQasim&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+
 
 ---
 

@@ -82,7 +82,7 @@ An interactive online bakery platform featuring a responsive UI using HTML, CSS,
   <a href="https://www.linkedin.com/in/husna-qasim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:husnaqasim.7860218@gmail.com">
+  <a href="mailto:husnaqasim.7860218@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>

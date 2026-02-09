@@ -7,10 +7,11 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a **Full Stack Developer** with 2+ years of experience, skilled in building **scalable, user-centric applications**.  
-Proficient in **HTML, CSS, JavaScript, React.js, PHP, SQL, MongoDB** and familiar with tools like **MS Office, GitHub, Google Colab**.  
-I enjoy solving problems, debugging complex issues, and crafting responsive, interactive web solutions. 🚀  
+👋 About Me
+
+I’m a Full Stack Developer with 2+ years of experience, focused on building scalable, user-centric web applications.
+Proficient in modern frontend technologies and frameworks including HTML, CSS, JavaScript, and React.js and Hands-on experience with Node.js, MongoDB and working knowledge of SQL & PostgreSQL.Comfortable using productivity tools and also Familiar with cloud-based workflows and deployment concepts.
+I enjoy solving problems, debugging complex issues, and crafting responsive, interactive web experiences with clean and maintainable code. 
 
 ---
 

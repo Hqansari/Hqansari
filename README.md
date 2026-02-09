@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=HusnaQasim&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9933,50:FFFFFF,100:138808&height=230&section=header&text=Husna%20%Qasim&fontSize=20&fontColor=#000000&descSize=80&descAlignY=195&animation=fadeIn" />
 </p>
 
 
@@ -14,17 +14,66 @@ I enjoy solving problems, debugging complex issues, and crafting responsive, int
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mongodb,mysql,git,github,vscode" />
-</p>
+**Primary Stack:** MERN  
+**Focus:** Frontend Technologies & Modern Frameworks  
+**Strengths:** Clean UI, scalable APIs, authentication, real-world architecture
 
 ---
 
-### 🌟 Featured Projects
-🔹 [Project 1 – Codexport.io](#https://codexport.io/) – A real-time collaborative coding platform  
-🔹 [Project 2 – Bakery Web Platform](#https://hqansari.github.io/bakery.html.html) – Interactive online bakery with responsive UI and optimized database queries  
-🔹 [Project 3 – Emotion Recognition from Facial Expressions Using Deep Learning-CNN Model](#https://ieeexplore.ieee.org/document/10046987) – Developed a deep learning-based on (CNN) model to recognize emotions from facial expressions which works in Google Colab using Python Libraries.  
+🛠️ Tech Stack & Tools
+⚡ Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cpp,python" /> </p>
+                   <p align="center">  HTML5 • CSS (Tailwind) • JavaScript • TypeScript • C++ • Python </p>
+
+🧩 Technologies & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs" /> </p>
+                  <p align="center">React.js • Next.js • Node.js • Express.js • NestJS </p> 
+                  <p align="center"> RESTful API Development • JWT / OAuth Authentication • WebSockets </p>
+
+
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" /> </p>
+                  <p align="center">MongoDB • MySQL • PostgreSQL • Supabase </p>
+
+☁️ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,vercel,docker" /> </p>
+               <p align="center">AWS (EC2, S3) • Docker </p>
+
+⚙️ Tools & Workflow
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,materialui" /> </p>
+          <p align="center">VS Code • Git • GitHub • React Developer Tools • Material UI </p>
+
+---
+
+🌟 Featured Projects
+
+🔹 Project 1 – Codexport.io
+🔗 [[LINK](https://codexport.io/)
+
+A real-time collaborative coding platform enabling developers to write, share, and collaborate on code seamlessly.
+
+🔹 Project 2 – DSA Mastery: Learning Platform Website
+🔗 [[LINK](http://dsa-sheet-2025-hqansari.s3-website.ap-south-1.amazonaws.com/)
+🔗 [[DEMO VIDEO](https://drive.google.com/file/d/1FDVCRb_F2uBz9Zh1C4gUUNGHekRRFtMd/view?usp=sharing)
+A comprehensive Data Structures & Algorithms learning platform built using the MERN stack.
+
+Track learning progress and prepare effectively for coding interviews
+Access curated DSA resources in a structured way
+Modern glassmorphism UI with smooth animations and intuitive UX
+Secure cloud storage using MongoDB Atlas with well-designed schemas
+
+🔹 Project 3 – Emotion Recognition from Facial Expressions (CNN Model)
+🔗 [[LINK](https://ieeexplore.ieee.org/document/10046987)
+
+Developed a deep learning-based CNN model to recognize human emotions from facial expressions.
+Implemented using Python and deep learning libraries
+Executed and tested in Google Colab
+Research work published on IEEE Xplore
+
+🔹 Project 4 – Bakery Web Platform
+🔗 [[LINK](https://hqansari.github.io/bakery.html.html)
+
+An interactive online bakery platform featuring a responsive UI using HTML, CSS, and JavaScript for smooth performance.
 
 ---
 
@@ -42,6 +91,5 @@ I enjoy solving problems, debugging complex issues, and crafting responsive, int
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=000000&animation=fadeIn" />
 </p>
-

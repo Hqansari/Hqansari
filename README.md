@@ -48,32 +48,31 @@ I enjoy solving problems, debugging complex issues, and crafting responsive, int
 🌟 Featured Projects
 
 🔹 Project 1 – Codexport.io
-🔗 [[LINK](https://codexport.io/)
+🔗 [[LIVE LINK]](https://codexport.io/)
 
 A real-time collaborative coding platform enabling developers to write, share, and collaborate on code seamlessly.
 
 🔹 Project 2 – DSA Mastery: Learning Platform Website
-🔗 [[LINK](http://dsa-sheet-2025-hqansari.s3-website.ap-south-1.amazonaws.com/)
-🔗 [[DEMO VIDEO](https://drive.google.com/file/d/1FDVCRb_F2uBz9Zh1C4gUUNGHekRRFtMd/view?usp=sharing)
-A comprehensive Data Structures & Algorithms learning platform built using the MERN stack.
+🔗 [[LIVE LINK]](http://dsa-sheet-2025-hqansari.s3-website.ap-south-1.amazonaws.com/)
+- 🔗 [[DEMO]](https://drive.google.com/file/d/1FDVCRb_F2uBz9Zh1C4gUUNGHekRRFtMd/view?usp=sharing)
+- A comprehensive Data Structures & Algorithms learning platform built using the MERN stack.
 
-Track learning progress and prepare effectively for coding interviews
-Access curated DSA resources in a structured way
-Modern glassmorphism UI with smooth animations and intuitive UX
-Secure cloud storage using MongoDB Atlas with well-designed schemas
+* Track learning progress and prepare effectively for coding interviews
+* Access curated DSA resources in a structured way
+* Modern glassmorphism UI with smooth animations and intuitive UX
+* Secure cloud storage using MongoDB Atlas with well-designed schemas
 
 🔹 Project 3 – Emotion Recognition from Facial Expressions (CNN Model)
-🔗 [[LINK](https://ieeexplore.ieee.org/document/10046987)
+- 🔗 [[PAPER LINK]](https://ieeexplore.ieee.org/document/10046987)
 
-Developed a deep learning-based CNN model to recognize human emotions from facial expressions.
-Implemented using Python and deep learning libraries
-Executed and tested in Google Colab
-Research work published on IEEE Xplore
+* Developed a deep learning-based CNN model to recognize human emotions from facial expressions.
+* Implemented using Python and deep learning libraries
+* Executed and tested in Google Colab
+* Research work published on IEEE Xplore
 
 🔹 Project 4 – Bakery Web Platform
-🔗 [[LINK](https://hqansari.github.io/bakery.html.html)
-
-An interactive online bakery platform featuring a responsive UI using HTML, CSS, and JavaScript for smooth performance.
+🔗 [[GITHUB LINK]](https://hqansari.github.io/bakery.html.html)
+- An interactive online bakery platform featuring a responsive UI using HTML, CSS, and JavaScript for smooth performance.
 
 ---
 
@@ -91,5 +90,5 @@ An interactive online bakery platform featuring a responsive UI using HTML, CSS,
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF9933,50:FFFFFF,100:138808&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=#FFFFFF&animation=fadeIn" />
 </p>
